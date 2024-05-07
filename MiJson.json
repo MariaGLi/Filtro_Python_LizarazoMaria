@@ -1,0 +1,45 @@
+[
+    {
+        "Tipo": "Usuarios",
+        "Usuarios": [
+            {
+                "Identificador": "1",
+                "Nombres": "Jair",
+                "Apellidos": "Correa",
+                "Telefono": "123456789",
+                "Fijo": "123456",
+                "Direccion": "Depende"
+            },
+            {
+                "Identificador": "2",
+                "Nombres": "Fernanda",
+                "Apellidos": "Ortiz",
+                "Telefono": "123456789",
+                "Fijo": "123456",
+                "Direccion": "Donde los papas"
+            },
+            {
+                "Identificador": "3",
+                "Nombres": "Isabel",
+                "Apellidos": "Molina",
+                "Telefono": "123456789",
+                "Fijo": "123456",
+                "Direccion": "Donde los papas"
+            }
+        ]
+    },
+    {
+        "Tipo" : "Planes",
+        "Planes" : [
+            {
+                "Movistar" : "Plan Familiar"
+            },
+            {
+                "Movistar" : "Plan Pareja"
+            },
+            {
+                "Movistar" : "Plan Soltero Empedernido"
+            }
+        ]
+    }
+]
